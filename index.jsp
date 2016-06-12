@@ -7,6 +7,7 @@ zzzz
 </head>
 zzzz
 <body>
+yyyyyy
 hello new life
 <jsp:forward page="forward.jsp">
 <jsp:param name="age" value="27"/>
