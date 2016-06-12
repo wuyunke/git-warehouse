@@ -3,9 +3,9 @@
  <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>index</title>
-
+zzzz
 </head>
-
+zzzz
 <body>
 hello new life
 <jsp:forward page="forward.jsp">
